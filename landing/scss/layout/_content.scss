@@ -1,0 +1,9 @@
+.section-top {
+  background-image: image-url('bg/top-bg.jpg');
+  @include background-size(cover);
+  padding: 260px 0 230px;
+
+  .img{
+    text-align: center;
+  }
+}

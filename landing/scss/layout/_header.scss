@@ -1,0 +1,63 @@
+.header-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 25px 0;
+  color: #fff;
+  border-bottom: 1px solid #3d4450;
+  font-size: 14px;
+  text-transform: uppercase;
+
+  .logo {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    @include translateY(-50%);
+  }
+
+  .right-part {
+    float: right;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+    @include transition(color .3s);
+    line-height: 1;
+
+    &:hover {
+      color: #eb3030;
+    }
+  }
+
+  .tel {
+    font-size: 24px;
+    display: inline-block;
+    margin-right: 15px;
+    vertical-align: bottom;
+    position: relative;
+    padding-left: 30px;
+  }
+
+  .recall {
+    color: #eb3030;
+    text-decoration: underline;
+    display: inline-block;
+    vertical-align: bottom;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  nav ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      vertical-align: middle;
+    }
+  }
+}

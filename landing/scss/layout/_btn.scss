@@ -1,0 +1,51 @@
+.btn-wrap {
+
+  &.style-a{
+
+    .btn {
+      display: inline-block;
+      background: #eb3030;
+      text-transform: uppercase;
+      padding: 12px 30px;
+      color: #fff;
+      border: none;
+      text-decoration: none;
+      font-size: 14px;
+      @include border-radius(3px);
+      @include transition(background .3s, color .3s);
+
+      @media (min-width: $bp-small) {
+        padding: 16px 48px;
+      }
+
+      &:hover {
+        background: #fff;
+        color: #eb3030;
+        box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.35);
+      }
+    }
+  }
+
+  &.style-b {
+
+    .btn {
+      width: 100%;
+      display: inline-block;
+      background: transparent;
+      text-transform: uppercase;
+      padding: 16px 48px;
+      color: #fff;
+      border: 2px solid #fff;
+      text-decoration: none;
+      font-size: 14px;
+      @include border-radius(3px);
+      @include transition(background .3s, color .3s);
+
+      &:hover {
+        background: #fff;
+        color: #eb3030;
+        box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.35);
+      }
+    }
+  }
+}

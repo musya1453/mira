@@ -35,7 +35,7 @@
     width: 18px;
   }
 
-  strong {
+  span {
     font-family: $proxima-ex;
     text-transform: uppercase;
     display: block;
@@ -217,7 +217,7 @@
   }
 
   .form-type-text {
-    width: 280px;
+    width: 286px;
     display: inline-block;
     margin-bottom: 10px;
     max-width: 100%;
@@ -399,7 +399,7 @@
     }
   }
 
-  strong {
+  span {
     display: block;
     text-transform: uppercase;
     font-family: $proxima-ex;

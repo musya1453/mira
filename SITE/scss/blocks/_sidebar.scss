@@ -1,0 +1,14 @@
+.sidebar {
+  position: relative;
+  width: 278px;
+  padding: 10px 30px;
+  float: left;
+  z-index: 1;
+  min-height: 100%;
+
+  &:before {
+    @include pseudo-block($top: 0, $left: 0, $bottom: 0, $right: 0);
+    background: #24262e;
+    z-index: -1;
+  }
+}

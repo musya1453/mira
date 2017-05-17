@@ -5,6 +5,33 @@
 $experimental-support-for-svg: true;
 $experimental-support-for-opera: false;
 
-//width
+//widths
+$width-xsmall: 90%;
+//xs < $bp-small
+$bp-small: 768px;
+$width-small: 710px;
+//$bp-middle > sm >= $bp-small
+$bp-middle: 992px;
+$width-middle: 981px;
+//$bp-large > md >= $bp-middle
+$bp-large: 1140px;
+$width-large: 1110px;
+
+//offsets
+$container-padding-left: 15px;
+$container-padding-right: 15px;
+
+$container-fluid-padding-left: 0;
+$container-fluid-padding-right: 0;
+
+$row-margin-left: -12px;
+$row-margin-right: -12px;
+
+$col-padding-left: 12px;
+$col-padding-right: 12px;
 
 //fonts
+
+$sourcesanspro-light : 'sourcesanspro-light';
+$sourcesanspro-regular: 'sourcesanspro-regular';
+$sourcesanspro-semibold: 'sourcesanspro-semibold';

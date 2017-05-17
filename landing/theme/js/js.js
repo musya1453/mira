@@ -1,7 +1,7 @@
 (function ($) {
 
   $(document).ready(function () {
-    $('.nav a, .btn-next').bind("click", function (e) {
+    $('.nav a, .btn-next, .section-top .btn-wrap a, .recall').bind("click", function (e) {
       var anchor = $(this);
       $('html, body').stop().animate({
         scrollTop: $(anchor.attr('href')).offset().top

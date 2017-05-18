@@ -5,10 +5,75 @@
   float: left;
   z-index: 1;
   min-height: 100%;
+  color: #afb1c1;
 
   &:before {
     @include pseudo-block($top: 0, $left: 0, $bottom: 0, $right: 0);
     background: #24262e;
     z-index: -1;
+  }
+
+  .btn-menu {
+    margin-right: 10px;
+  }
+
+  .btn-menu, .logo {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  a {
+    color: #afb1c1;
+    text-decoration: none;
+  }
+
+  .user {
+    margin-bottom: 40px;
+    margin-top: 20px;
+
+    .img {
+      margin-right: 10px;
+    }
+
+    .img, .name {
+      display: inline-block;
+      vertical-align: middle;
+    }
+  }
+
+  nav {
+    text-transform: uppercase;
+    margin-bottom: 120px;
+
+    ul {
+      margin: 0;
+      list-style: none;
+      padding: 0;
+
+      li {
+        margin-bottom: 30px;
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+
+  .info {
+
+    a {
+      display: block;
+    }
+
+    a[href^="tel"] {
+      font-size: 25px;
+      margin-bottom: 14px;
+    }
+
+    a[href^="mailto"] {
+      margin-bottom: 25px;
+      font-size: 18px;
+    }
   }
 }

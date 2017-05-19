@@ -1,3 +1,40 @@
-.form {
+.form-style-a {
+  background: #5b9bd5;
+  padding: 40px 0 40px 60px;
+  display: inline-block;
+  color: #fff;
+  width: 770px;
+  font-family: $akrobat-bold;
+  font-size: 26px;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 50px;
 
+  &:before {
+    @include pseudo-block($top: 0, $left: 160px, $bottom: 0, $right: -145px);
+    background: #5b9bd5;
+    @include skew(-30deg, 0);
+    z-index: -1;
+  }
+
+  h3 {
+    margin: 0 0 40px;
+    font-size: 35px;
+    line-height: 1;
+  }
+
+  p {
+    margin: 0 0 15px;
+  }
+
+  input[type^="text"] {
+    font-size: 20px;
+    width: 100%;
+    padding: 20px;
+    font-family: $sourcesanspro-light;
+    @include input-placeholder(#24262e);
+    @include border-radius(3px);
+    border: none;
+    margin-bottom: 25px;
+  }
 }

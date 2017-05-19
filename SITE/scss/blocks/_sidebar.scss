@@ -6,11 +6,13 @@
   z-index: 1;
   min-height: 100%;
   color: #afb1c1;
+  font-size: 14px;
 
   &:before {
-    @include pseudo-block($top: 0, $left: 0, $bottom: 0, $right: 0);
+    @include pseudo-block($top: 0, $left: 0, $right: 0);
     background: #24262e;
     z-index: -1;
+    height: 20000px;
   }
 
   .btn-menu {

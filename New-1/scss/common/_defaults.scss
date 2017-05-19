@@ -6,7 +6,6 @@ body {
   min-height: 100%;
   height: 100%;
   font-size: 14px;
-  font-family: $sourcesanspro-regular;
 }
 
 .clearfix {
@@ -30,15 +29,4 @@ body {
 
 .pull-right {
   float: right;
-}
-
-* {
-  @include box-sizing(border-box);
-}
-
-.outer-wrapper {
-  overflow-x: hidden;
-  position: relative;
-  min-height: 100%;
-  height: 100%;
 }

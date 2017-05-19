@@ -409,6 +409,7 @@ body {
   min-height: 100%;
   height: 100%;
   font-size: 14px;
+  font-family: "sourcesanspro-regular";
 }
 
 .clearfix {
@@ -1357,6 +1358,7 @@ body {
   float: left;
   z-index: 1;
   min-height: 100%;
+  color: #afb1c1;
 }
 .sidebar:before {
   content: "";
@@ -1368,4 +1370,52 @@ body {
   left: 0;
   background: #24262e;
   z-index: -1;
+}
+.sidebar .btn-menu {
+  margin-right: 10px;
+}
+.sidebar .btn-menu, .sidebar .logo {
+  display: inline-block;
+  vertical-align: middle;
+}
+.sidebar a {
+  color: #afb1c1;
+  text-decoration: none;
+}
+.sidebar .user {
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+.sidebar .user .img {
+  margin-right: 10px;
+}
+.sidebar .user .img, .sidebar .user .name {
+  display: inline-block;
+  vertical-align: middle;
+}
+.sidebar nav {
+  text-transform: uppercase;
+  margin-bottom: 120px;
+}
+.sidebar nav ul {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+.sidebar nav ul li {
+  margin-bottom: 30px;
+}
+.sidebar nav ul li:last-child {
+  margin-bottom: 0;
+}
+.sidebar .info a {
+  display: block;
+}
+.sidebar .info a[href^="tel"] {
+  font-size: 25px;
+  margin-bottom: 14px;
+}
+.sidebar .info a[href^="mailto"] {
+  margin-bottom: 25px;
+  font-size: 18px;
 }

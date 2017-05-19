@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="31708737-96ba-49ba-9520-f6a9470d2f81" name="Default" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change type="DELETED" beforePath="E:\XAMPP\htdocs\mira\landing\config.rb" afterPath="" />
       <change type="DELETED" beforePath="E:\XAMPP\htdocs\mira\landing\index.html" afterPath="" />
       <change type="DELETED" beforePath="E:\XAMPP\htdocs\mira\landing\scss\common\_defaults.scss" afterPath="" />
@@ -62,12 +63,28 @@
       <change type="DELETED" beforePath="E:\XAMPP\htdocs\mira\landing\theme\js\lib\slick.min.js" afterPath="" />
 =======
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/theme/images/logo.png" afterPath="$PROJECT_DIR$/SITE/theme/images/logo.png" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/theme/fonts/akrobat-bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/theme/fonts/akrobat-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/FAQ.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/scss/blocks/_accordion.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/scss/layout/_btn.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/course_cours_detail.html" />
+      <change type="DELETED" beforePath="D:\SITEDEVELOP\XAMPP\htdocs\mira\SITE\name.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/layout/_content.scss" afterPath="$PROJECT_DIR$/SITE/scss/layout/_content.scss" />
+>>>>>>> 81594ea86dec6e5fa9db48a781806642fcab80e1
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/common/_defaults.scss" afterPath="$PROJECT_DIR$/SITE/scss/common/_defaults.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/layout/_header.scss" afterPath="$PROJECT_DIR$/SITE/scss/layout/_header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/common/_fonts.scss" afterPath="$PROJECT_DIR$/SITE/scss/common/_fonts.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/forms/_forms.scss" afterPath="$PROJECT_DIR$/SITE/scss/forms/_forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/common/_settings.scss" afterPath="$PROJECT_DIR$/SITE/scss/common/_settings.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/blocks/_sidebar.scss" afterPath="$PROJECT_DIR$/SITE/scss/blocks/_sidebar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/index.html" afterPath="$PROJECT_DIR$/SITE/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/theme/js/js.js" afterPath="$PROJECT_DIR$/SITE/theme/js/js.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/theme/css/styles.css" afterPath="$PROJECT_DIR$/SITE/theme/css/styles.css" />
+<<<<<<< HEAD
 >>>>>>> 76e61203ff92a1974f3e3ee84b987fd163fd1bbc
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/styles.scss" afterPath="$PROJECT_DIR$/SITE/scss/styles.scss" />
+>>>>>>> 81594ea86dec6e5fa9db48a781806642fcab80e1
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mira.iws" />
@@ -93,9 +110,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SITE/index.html">
+      <file leaf-file-name="FAQ.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SITE/FAQ.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="319" max-vertical-offset="1003">
               <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
@@ -103,6 +121,100 @@
             <state vertical-scroll-proportion="0.45790252" vertical-offset="64" max-vertical-offset="1003">
               <caret line="22" column="22" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="22" />
 >>>>>>> 76e61203ff92a1974f3e3ee84b987fd163fd1bbc
+=======
+            <state vertical-scroll-proportion="-12.961538" vertical-offset="3760" max-vertical-offset="4437">
+              <caret line="241" column="36" selection-start-line="241" selection-start-column="36" selection-end-line="241" selection-end-column="36" />
+>>>>>>> 81594ea86dec6e5fa9db48a781806642fcab80e1
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_forms.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SITE/scss/forms/_forms.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="765">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_btn.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SITE/scss/layout/_btn.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="833">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="course_cours_detail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SITE/course_cours_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.64844906" vertical-offset="394" max-vertical-offset="1666">
+              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_accordion.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SITE/scss/blocks/_accordion.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="7.3076925" vertical-offset="394" max-vertical-offset="1071">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SITE/theme/js/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SITE/scss/styles.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="408">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_defaults.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SITE/scss/common/_defaults.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.615385" vertical-offset="309" max-vertical-offset="986">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SITE/scss/layout/_footer.scss">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+              <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+=======
+            <state vertical-scroll-proportion="-24.076923" vertical-offset="649" max-vertical-offset="1428">
+              <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+>>>>>>> 76e61203ff92a1974f3e3ee84b987fd163fd1bbc
+=======
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 81594ea86dec6e5fa9db48a781806642fcab80e1
               <folding />
             </state>
           </provider>
@@ -112,20 +224,6 @@
         <entry file="file://$PROJECT_DIR$/SITE/scss/blocks/_sidebar.scss">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-              <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-=======
-            <state vertical-scroll-proportion="-24.076923" vertical-offset="649" max-vertical-offset="1428">
-              <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
->>>>>>> 76e61203ff92a1974f3e3ee84b987fd163fd1bbc
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_header.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SITE/scss/layout/_header.scss">
-          <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="816">
               <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
@@ -163,6 +261,10 @@
             <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
 >>>>>>> 76e61203ff92a1974f3e3ee84b987fd163fd1bbc
+=======
+            <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1462">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+>>>>>>> 81594ea86dec6e5fa9db48a781806642fcab80e1
               <folding />
             </state>
           </provider>
@@ -192,13 +294,20 @@
         <option value="$PROJECT_DIR$/landing/scss/common/_settings.scss" />
         <option value="$PROJECT_DIR$/landing/index.html" />
         <option value="$PROJECT_DIR$/landing/scss/layout/_content.scss" />
-        <option value="$PROJECT_DIR$/SITE/scss/styles.scss" />
-        <option value="$PROJECT_DIR$/SITE/scss/common/_fonts.scss" />
-        <option value="$PROJECT_DIR$/SITE/scss/common/_settings.scss" />
-        <option value="$PROJECT_DIR$/SITE/scss/common/_defaults.scss" />
         <option value="$PROJECT_DIR$/SITE/index.html" />
         <option value="$PROJECT_DIR$/SITE/scss/layout/_header.scss" />
+        <option value="$PROJECT_DIR$/SITE/scss/common/_fonts.scss" />
+        <option value="$PROJECT_DIR$/SITE/scss/common/_settings.scss" />
+        <option value="$PROJECT_DIR$/SITE/scss/layout/_content.scss" />
+        <option value="$PROJECT_DIR$/SITE/theme/js/js.js" />
         <option value="$PROJECT_DIR$/SITE/scss/blocks/_sidebar.scss" />
+        <option value="$PROJECT_DIR$/SITE/scss/common/_defaults.scss" />
+        <option value="$PROJECT_DIR$/SITE/scss/blocks/_accordion.scss" />
+        <option value="$PROJECT_DIR$/SITE/scss/styles.scss" />
+        <option value="$PROJECT_DIR$/SITE/scss/forms/_forms.scss" />
+        <option value="$PROJECT_DIR$/SITE/FAQ.html" />
+        <option value="$PROJECT_DIR$/SITE/scss/layout/_btn.scss" />
+        <option value="$PROJECT_DIR$/SITE/course_cours_detail.html" />
       </list>
     </option>
   </component>
@@ -254,6 +363,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SITE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mira" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mira" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -377,6 +508,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="forms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mira" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mira" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -428,14 +581,17 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.terminal.TerminalOptionsConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SITEDEVELOP\XAMPP\htdocs\mira\SITE" />
+      <recent name="D:\SITEDEVELOP\XAMPP\htdocs\mira\SITE\theme\fonts" />
       <recent name="E:\XAMPP\htdocs\mira\SITE" />
       <recent name="E:\XAMPP\htdocs\mira\SITE\scss\modules" />
       <recent name="E:\XAMPP\htdocs\mira\landing\theme\js\lib" />
-      <recent name="E:\XAMPP\htdocs\mira\landing\scss\modules" />
-      <recent name="E:\XAMPP\htdocs\mira" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\XAMPP\htdocs\mira\SITE\theme\fonts" />
@@ -652,6 +808,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/SITE/scss/common/_settings.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
@@ -661,6 +818,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 81594ea86dec6e5fa9db48a781806642fcab80e1
     <entry file="file://$PROJECT_DIR$/landing/scss/modules/_grid.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="11849">
@@ -718,6 +877,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/SITE/name.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
@@ -727,6 +887,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 81594ea86dec6e5fa9db48a781806642fcab80e1
     <entry file="file://$PROJECT_DIR$/landing/scss/layout/_content.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4283054" vertical-offset="6553" max-vertical-offset="9707">
@@ -764,14 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SITE/scss/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/landing/scss/common/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
@@ -794,36 +948,15 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/SITE/scss/common/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="663">
 =======
     <entry file="file://$PROJECT_DIR$/SITE/scss/common/_settings.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49852508" vertical-offset="36" max-vertical-offset="714">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SITE/scss/common/_fonts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7020649" vertical-offset="0" max-vertical-offset="678">
->>>>>>> 76e61203ff92a1974f3e3ee84b987fd163fd1bbc
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SITE/scss/common/_defaults.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6519174" vertical-offset="0" max-vertical-offset="833">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/SITE/scss/layout/_header.scss">
+>>>>>>> 81594ea86dec6e5fa9db48a781806642fcab80e1
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
@@ -831,16 +964,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SITE/scss/blocks/_sidebar.scss">
+    <entry file="file://$PROJECT_DIR$/SITE/scss/common/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.076923" vertical-offset="649" max-vertical-offset="1428">
-          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.7020649" vertical-offset="0" max-vertical-offset="678">
+>>>>>>> 76e61203ff92a1974f3e3ee84b987fd163fd1bbc
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="38" />
+=======
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="799">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+>>>>>>> 81594ea86dec6e5fa9db48a781806642fcab80e1
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SITE/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="326" max-vertical-offset="1003">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/scss/common/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.730769" vertical-offset="37" max-vertical-offset="731">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/scss/layout/_content.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="153">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/scss/layout/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/theme/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/scss/blocks/_sidebar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1462">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/scss/common/_defaults.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.615385" vertical-offset="309" max-vertical-offset="986">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/scss/blocks/_accordion.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.3076925" vertical-offset="394" max-vertical-offset="1071">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/scss/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="408">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/scss/forms/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="765">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/FAQ.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.961538" vertical-offset="3760" max-vertical-offset="4437">
+          <caret line="241" column="36" selection-start-line="241" selection-start-column="36" selection-end-line="241" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/scss/layout/_btn.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="833">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITE/course_cours_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.81095403" vertical-offset="0" max-vertical-offset="714">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
@@ -848,6 +1084,10 @@
         <state vertical-scroll-proportion="0.45790252" vertical-offset="64" max-vertical-offset="1003">
           <caret line="22" column="22" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="22" />
 >>>>>>> 76e61203ff92a1974f3e3ee84b987fd163fd1bbc
+=======
+        <state vertical-scroll-proportion="0.64844906" vertical-offset="394" max-vertical-offset="1666">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+>>>>>>> 81594ea86dec6e5fa9db48a781806642fcab80e1
           <folding />
         </state>
       </provider>

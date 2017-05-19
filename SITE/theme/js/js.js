@@ -1,26 +1,21 @@
 (function ($) {
 
-  if (typeof Drupal != 'undefined') {
-    Drupal.behaviors.wcportalMobileTheme = {
-      attach: function (context, settings) {
-        init();
-      },
+ $(window).load(function(){
 
-      completedCallback: function () {
-        // Do nothing. But it's here in case other modules/themes want to override it.
-      }
-    }
-  }
+   var $wrapper = $('.b-accordion'),
+     $items = $wrapper.find('.title');
 
-  $(function () {
-    if (typeof Drupal == 'undefined') {
-      init();
-    }
-  });
+   $items.on('click touch', function(e){
+     e.preventDefault();
 
-  function init() {
-
-  }
+     if( $(this).parent().hasClass('active')){
+       $(this).parent().removeClass('active');
+     }else{
+       $items.parent().removeClass('active');
+       $(this).parent().addClass('active');
+     }
+   })
+ })
 
 })(jQuery);
 

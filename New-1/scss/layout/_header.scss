@@ -1,0 +1,48 @@
+.header-wrapper {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 50px;
+
+  .container {
+    position: relative;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  .right-part {
+
+    @media (min-width: $bp-small) {
+      position: absolute;
+      top: 60px;
+      right: 0;
+      text-align: right;
+    }
+
+    a {
+      text-decoration: none;
+      display: block;
+      color: #5b9bd5;
+    }
+
+    .tel{
+      font-family: $ptserif-caption;
+      font-size: 20px;
+      margin-bottom: 10px;
+      color: #fff;
+      padding-left: 28px;
+      position: relative;
+
+      @media (min-width: $bp-small) {
+        font-size: 26px;
+      }
+
+      &:before {
+        @include pseudo-block($top: 50%, $left: 0);
+        @include translateY(-50%);
+        @include oneline-sprite-box($icons, phone);
+      }
+    }
+  }
+}

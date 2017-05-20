@@ -2,22 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31708737-96ba-49ba-9520-f6a9470d2f81" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/theme/fonts/akrobat-bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/theme/fonts/akrobat-bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/FAQ.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/scss/blocks/_accordion.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/scss/layout/_btn.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SITE/course_cours_detail.html" />
-      <change type="DELETED" beforePath="D:\SITEDEVELOP\XAMPP\htdocs\mira\SITE\name.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/layout/_content.scss" afterPath="$PROJECT_DIR$/SITE/scss/layout/_content.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/common/_defaults.scss" afterPath="$PROJECT_DIR$/SITE/scss/common/_defaults.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/common/_fonts.scss" afterPath="$PROJECT_DIR$/SITE/scss/common/_fonts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/forms/_forms.scss" afterPath="$PROJECT_DIR$/SITE/scss/forms/_forms.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/common/_settings.scss" afterPath="$PROJECT_DIR$/SITE/scss/common/_settings.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/blocks/_sidebar.scss" afterPath="$PROJECT_DIR$/SITE/scss/blocks/_sidebar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/theme/js/js.js" afterPath="$PROJECT_DIR$/SITE/theme/js/js.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/theme/css/styles.css" afterPath="$PROJECT_DIR$/SITE/theme/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SITE/scss/styles.scss" afterPath="$PROJECT_DIR$/SITE/scss/styles.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mira.iws" />
@@ -76,8 +60,8 @@
       <file leaf-file-name="course_cours_detail.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SITE/course_cours_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64844906" vertical-offset="394" max-vertical-offset="1666">
-              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.09601182" vertical-offset="394" max-vertical-offset="1666">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -871,8 +855,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SITE/course_cours_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64844906" vertical-offset="394" max-vertical-offset="1666">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.09601182" vertical-offset="394" max-vertical-offset="1666">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
           <folding />
         </state>
       </provider>

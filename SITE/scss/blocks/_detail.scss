@@ -1,0 +1,33 @@
+.b-detail {
+
+  .title {
+    margin-bottom: 80px;
+
+    .img {
+      margin-right: 30px;
+    }
+
+    h2, .img {
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    h2 {
+      width: 80%;
+      margin: 0;
+    }
+  }
+
+  .text {
+    margin-bottom: 55px;
+
+    p {
+      margin: 0 0 20px;
+    }
+
+    .img {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+  }
+}

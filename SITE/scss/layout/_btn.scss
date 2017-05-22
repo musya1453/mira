@@ -41,4 +41,46 @@
       }
     }
   }
+
+  &.style-c {
+
+    .btn {
+      display: inline-block;
+      border: 1px solid #2575be;
+      color: #5b9bd5;
+      font-family: $sourcesanspro-semibold;
+      text-decoration: none;
+      font-size: 17px;
+      background: none;
+      padding: 12px 30px;
+      @include border-radius(3px);
+      @include transition(all .3s);
+
+      &:hover {
+        background: #2575be;
+        color: #fff;
+      }
+    }
+  }
+
+  &.style-d {
+
+    .btn {
+      border: 1px solid #5b9bd5;
+      display: inline-block;
+      color: #fff;
+      background: #5b9bd5;
+      font-family: $sourcesanspro-semibold;
+      text-decoration: none;
+      font-size: 17px;
+      padding: 12px 30px;
+      @include border-radius(3px);
+      @include transition(all .3s);
+
+      &:hover {
+        background: #fff;
+        color: #5b9bd5;
+      }
+    }
+  }
 }

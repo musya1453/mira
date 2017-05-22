@@ -1,4 +1,17 @@
 .content-wrapper {
   overflow: hidden;
-  padding: 50px 0;
+  padding: 50px 0 0;
+
+  .footer-wrapper {
+    background: #383a41;
+    padding: 46px 60px;
+    color: #fff;
+    font-size: 16px;
+    font-family: $akrobat-light;
+    line-height: 1.6;
+
+    p {
+      margin: 0;
+    }
+  }
 }

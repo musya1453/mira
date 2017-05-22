@@ -1,0 +1,14 @@
+.b-text {
+  font-size: 22px;
+  background: #f7f7f7;
+  padding: 100px 175px;
+  margin-bottom: 80px;
+
+  p {
+    margin: 0 0 30px;
+
+    &:last-child {
+      margin: 0;
+    }
+  }
+}

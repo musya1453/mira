@@ -1,0 +1,129 @@
+.b-course-program {
+  font-size: 18px;
+  margin-bottom: 115px;
+
+  .items-list {
+
+    & > li {
+      margin-top: 20px;
+      padding-top: 20px;
+      border-top: 1px solid #e8e8e8;
+
+      &:first-child {
+        padding: 0;
+        margin: 0;
+        border: none;
+      }
+    }
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      @include clearfix();
+      @include transition(all .3s);
+
+      &.active {
+        @include box-shadow(0 0 13px 3px rgba(0, 0, 0, 0.12));
+
+        .title {
+          color: #5b9bd5;
+          font-family: $sourcesanspro-semibold;
+          margin-bottom: 40px;
+          padding: 25px 70px 15px 20px;
+
+          .col {
+
+            &:nth-child(2), &:nth-child(3) {
+              font-size: 22px;
+            }
+          }
+
+          .procent {
+            font-size: 30px;
+          }
+        }
+
+        .desc {
+          display: block;
+
+          .col {
+
+            &:nth-child(2), &:nth-child(3) {
+              color: #5b9bd5;
+            }
+          }
+        }
+      }
+    }
+
+  }
+
+  .desc {
+    display: none;
+    padding-bottom: 25px;
+
+    li {
+      margin-bottom: 12px;
+      border-bottom: 1px solid #eaeaea;
+      padding: 0 70px 15px 20px;
+    }
+
+    .btn-wrap {
+      padding-left: 20px;
+      display: inline-block;
+      margin-right: 35px;
+      vertical-align: middle;
+    }
+
+    .info {
+      display: inline-block;
+      vertical-align: middle;
+    }
+  }
+
+  .desc, .title {
+
+    .col {
+      float: left;
+      min-height: 1px;
+
+      &:first-child {
+        width: 60%;
+      }
+
+      &:nth-child(2), &:nth-child(3) {
+        width: 20%;
+        font-family: $sourcesanspro-semibold;
+        text-align: right;
+      }
+    }
+  }
+
+  .title {
+    @include clearfix();
+    padding: 0 70px 0 20px;
+
+
+    .col{
+      &:nth-child(2), &:nth-child(3) {
+        color: #b1b1b1;
+        font-family: $sourcesanspro-regular;
+      }
+    }
+
+    .procent {
+      color: #5b9bd5;
+    }
+  }
+
+  .title {
+    display: block;
+    color: #323644;
+    text-decoration: none;
+    font-size: 20px;
+  }
+}

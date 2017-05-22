@@ -10,6 +10,22 @@
 }
 
 @font-face {
+  font-family: 'akrobat-light';
+  src: url('../fonts/akrobat-light.woff') format('woff'),
+  url('../fonts/akrobat-light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'akrobat-semibold';
+  src: url('../fonts/akrobat-semibold.woff') format('woff'),
+  url('../fonts/akrobat-semibold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'akrobat-bold';
   src: url('../fonts/akrobat-bold.woff') format('woff'),
   url('../fonts/akrobat-bold.woff2') format('woff2');
